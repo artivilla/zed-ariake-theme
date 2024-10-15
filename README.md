@@ -7,9 +7,9 @@ Ariake is inspired by Japanese traditional colors and the poetry composed 1000 y
 
 <img src="media/mibuno-tadamine.jpg" width="200">
 
-<img src="media/dark-mode-screen.png">
+<img src="media/dark-mode-zoom-view.png">
 
-<img src="media/dark-mode-screen-2.png">
+<img src="media/dark-mode-screen.png">
 
 ### How to install
 - Copy the theme file (zed-ariake.json) under `~/.config/zed/themes`
