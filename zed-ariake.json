@@ -200,7 +200,7 @@
           },
           "comment": {
             "color": "#565775",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "constant": {
