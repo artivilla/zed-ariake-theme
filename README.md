@@ -34,5 +34,7 @@ Ariake Dark draws inspiration from the work of [@pathtrk](https://github.com/pat
 
 Ariake Dawn is inspired by the work of [@ragma](https://github.com/ragmha/ariake-light-syntax) on Ariake Light. The editor styles reflect Zed's primary theme, Rosé Pine Dawn.
 
+Ariake Light is another variation featuring a lighter tone. The editor styles are preserved from GitHub's theme library, GitHub Light Colorblind.
+
 ### Author
 [Arti Villa](https://artivilla.com/)
