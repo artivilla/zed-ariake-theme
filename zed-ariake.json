@@ -143,11 +143,6 @@
             "font_style": null,
             "font_weight": null
           },
-          "editor.foreground": {
-            "color": null,
-            "font_style": null,
-            "font_weight": null
-          },
           "function": {
             "color": "#F5FAFF",
             "font_style": null,
@@ -214,12 +209,12 @@
             "font_weight": null
           },
           "constructor": {
-            "color": "#FF480D",
+            "color": "#F5FAFF",
             "font_style": null,
             "font_weight": null
           },
           "type": {
-            "color": "#8BF1EA",
+            "color": "#A571F4",
             "font_style": null,
             "font_weight": null
           }
