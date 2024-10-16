@@ -26,7 +26,9 @@ This theme draws inspiration from the following poem by Mibu no Tadamine (壬生
 - Select `Ariake Dark`
 
 ### Attribution
-Ariake Dark is a Zed theme inspired by the work of [@pathtrk](https://github.com/pathtrk/ariake-dark-syntax) of the same name. The editor styles are influenced by Zed, and the artwork has been ported over.
+Ariake Dark draws inspiration from the work of [@pathtrk](https://github.com/pathtrk/ariake-dark-syntax) of the same name. The editor styles reflect Zed's primary theme, and the artwork has been preserved accordingly.
+
+Ariake Dawn is inspired by the work of [@ragma](https://github.com/ragmha/ariake-light-syntax) on Ariake Light. The editor styles reflect Zed's primary theme, Rosé Pine Dawn.
 
 ### Author
 [Arti Villa](https://artivilla.com/)
