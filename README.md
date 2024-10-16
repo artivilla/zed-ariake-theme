@@ -10,9 +10,14 @@ This theme draws inspiration from the following poem by Mibu no Tadamine (壬生
 
 <img src="media/mibuno-tadamine.jpg" width="200">
 
-<img src="media/dark-mode-zoom-view.png">
+#### Ariake Dark
+<img src="media/ariake-dark-zoom.png">
 
-<img src="media/dark-mode-screen.png">
+<img src="media/ariake-dark.png">
+<img src="media/ariake-dark-long.png">
+
+#### Ariake Dawn
+<img src="media/ariake-light-dawn.png">
 
 ### How to install
 - Copy the theme file (zed-ariake.json) under `~/.config/zed/themes`
