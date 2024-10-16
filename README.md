@@ -19,6 +19,10 @@ This theme draws inspiration from the following poem by Mibu no Tadamine (壬生
 #### Ariake Dawn
 <img src="media/ariake-light-dawn.png">
 
+#### Ariake Light
+<img src="media/ariake-light.png">
+<img src="media/ariake-light-views.png">
+
 ### How to install
 - Copy the theme file (zed-ariake.json) under `~/.config/zed/themes`
 - Open Command Palette (cmd+shift+p)
