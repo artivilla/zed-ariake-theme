@@ -1,0 +1,7 @@
+id = "ariake"
+name = "Ariake"
+version = "0.0.1"
+schema_version = 1
+authors = ["Arti Villa <studio@artivilla.com>"]
+description = "An Ariake theme inspired by Japanese traditional colors for Zed"
+repository = "https://github.com/artivilla/zed-ariake-theme"
